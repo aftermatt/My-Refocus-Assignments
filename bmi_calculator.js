@@ -1,4 +1,5 @@
 //Home Assignment: Git & GitHub Task #2
+
 function calculateBMI(weightInKg,heightInCentimeters){
 var heightInMeters = heightInCentimeters/100;
 var bmi = weightInKg / Math.pow(heightInMeters,2)
